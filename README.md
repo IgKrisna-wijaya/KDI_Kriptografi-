@@ -78,6 +78,11 @@ Program terdiri dari beberapa fungsi utama yaitu rotl() yang melakukan rotasi bi
 
 Program ini dibuat untuk mendemonstrasikan cara kerja algoritma kriptografi **RC5** secara langkah demi langkah sebagai bagian dari tugas mata kuliah **Kriptografi**.
 
+## Demonstrasi
+
+Demo.mkv
+
+
 ## Author
 
 Nama : Ig.Krisna Wijaya Prihandono
